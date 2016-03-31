@@ -2,9 +2,9 @@
   "name": "node-express-mongoose-jsonwebtoken-api",
   "version": "1.0.0",
   "description": "Small scalable api",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "babel-node index.js"
   },
   "keywords": [],
   "author": "Pedro Brás",
